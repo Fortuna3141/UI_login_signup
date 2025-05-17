@@ -1,1 +1,1 @@
-# UI_login_signup
+# Untuk page login dan signup, juga translasi ke homepage
